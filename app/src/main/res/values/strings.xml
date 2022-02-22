@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana5_Proyecto1</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="para">PARAR</string>
+    <string name="Titulo1">REPRODUCTOR DE MÚSICA</string>
+    <string name="btnsig">REPRODUCTOR DE VIDEO</string>
+    <string name="titulo2">REPRODUCTOR DE VIDEO</string>
+    <string name="btnant">Regresar</string>
+
+</resources>
